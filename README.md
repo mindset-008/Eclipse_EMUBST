@@ -19,5 +19,4 @@
                                                                                                           
 ```
 
-
-![image](https://github.com/user-attachments/assets/ce5da043-73a5-4b50-9866-e55b137afdc6)
+<img src="https://media.discordapp.net/attachments/1312473750892970044/1347778134967062578/image.png?ex=67cd0fb3&amp;is=67cbbe33&amp;hm=626073707fcd9dc24f69870ec9f1a641455c82ac79b859b7e60ce1b133721094&amp;=&amp;format=webp&amp;quality=lossless&amp;width=1690&amp;height=1157" alt="Image"/>
